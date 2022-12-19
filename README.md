@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Foyaz Ullah Shahin
-- 👀 I’m interested in Backend development
+- 👀 I’m interested in Backend development. (PHP, Laravel)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ... shahin.fci@gmail.com
 
